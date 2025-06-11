@@ -1,0 +1,27 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore Streamlit secrets file
+.streamlit/secrets.toml
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
+
+# Ignore environment files
+.env
+*.env
+
+# Ignore other temporary files
+*.swp
+*.swo
+*.tmp
+*.bak
+*.old
